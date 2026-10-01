@@ -13,5 +13,6 @@
 
 ## Practical session report
 
-* Please complete the cell lines indicated with `# fill-in here` and include your results, figures, and interpretations directly in this notebook whenever requested.
+* Open PETKineticModelling_etu.ipynb
+* Complete the cell lines indicated with `# fill-in here` and include your results, figures, and interpretations directly in this notebook whenever requested.
 * Send the completed notebook back to Albertine Dubois - albertine.dubois@cea.fr
